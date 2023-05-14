@@ -1,0 +1,24 @@
+.bt-homepage__widget-wrapper .widget {
+    max-width: 1220px;
+    padding: 16px;
+    margin: 0 auto;
+    z-index: 25;
+}
+.bt-widget-teasers--portholes .bt-teaser__image {
+    position: relative;
+    background: #f9f9f9;
+    display: inline-block;
+    width: 275px;
+    height: 275px;
+    margin: 0;
+    box-sizing: border-box;
+    padding: 16px;
+    border-radius: 100%;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    border: 0;
+    vertical-align: middle;
+}
